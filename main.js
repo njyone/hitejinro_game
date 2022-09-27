@@ -1,8 +1,8 @@
 'use strict';
 
 const JINRO_SIZE = 40 ;
-const JINRO_COUNT = 20;
-const POGBOT_COUNT = 20;
+const JINRO_COUNT = 10;
+const POGBOT_COUNT = 5;
 const GAME_DURATION_SEC = 10;
 
 const field = document.querySelector('.game__field');
